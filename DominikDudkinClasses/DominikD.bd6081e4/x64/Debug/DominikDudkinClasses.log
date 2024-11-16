@@ -1,0 +1,187 @@
+﻿  Device.cpp
+  DeviceList.cpp
+  DominikDudkinClasses.cpp
+  Page.cpp
+  Profile.cpp
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(7,6): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(7,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(7,31): error C2146: syntax error: missing ')' before identifier 'owner'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(7,31): error C3646: 'owner': unknown override specifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(7,36): error C2059: syntax error: ')'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(9,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(9,17): error C2065: 'owner': undeclared identifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(10,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(11,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(14,6): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(16,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(17,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(20,6): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(20,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(20,15): error C2146: syntax error: missing ';' before identifier 'getOwner'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(21,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(21,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(25,6): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(27,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(31,6): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(33,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(37,6): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(37,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(37,36): error C2146: syntax error: missing ')' before identifier 'friend_to_add'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(37,36): error C3646: 'friend_to_add': unknown override specifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(37,49): error C2059: syntax error: ')'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(39,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(39,24): error C2065: 'friend_to_add': undeclared identifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(42,13): error C2653: 'Profile': is not a class or namespace name
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(42,22): error C2270: 'getPage': modifiers not allowed on nonmember functions
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(44,22): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(44,48): error C2065: 'DEVIDER': undeclared identifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\Profile.cpp(44,58): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  ProfileList.cpp
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,26): error C2146: syntax error: missing ')' before identifier 'profile'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,26): error C3646: 'profile': unknown override specifier
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,33): error C2059: syntax error: ')'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(13,10): error C3646: 'get_data': unknown override specifier
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(13,18): error C2059: syntax error: '('
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(13,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,30): error C2146: syntax error: missing ')' before identifier 'new_device'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,30): error C3646: 'new_device': unknown override specifier
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,40): error C2059: syntax error: ')'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(20,10): error C3646: '_data': unknown override specifier
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(20,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,25): error C2146: syntax error: missing ')' before identifier 'user_to_add'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,25): error C3646: 'user_to_add': unknown override specifier
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,36): error C2059: syntax error: ')'
+  (compiling source file 'ProfileList.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(9,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(9,38): error C2146: syntax error: missing ')' before identifier 'profile'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(9,38): error C3646: 'profile': unknown override specifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(9,45): error C2059: syntax error: ')'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(11,8): error C2039: '_data': is not a member of 'ProfileNode'
+  C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(5,7):
+  see declaration of 'ProfileNode'
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(11,16): error C2065: 'profile': undeclared identifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(22,22): error C2039: 'get_data': is not a member of 'ProfileNode'
+  C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(5,7):
+  see declaration of 'ProfileNode'
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(22,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(22,22): error C2146: syntax error: missing ';' before identifier 'get_data'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(23,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(23,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(34,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(34,42): error C2146: syntax error: missing ')' before identifier 'new_data'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(34,42): error C3646: 'new_data': unknown override specifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(34,50): error C2059: syntax error: ')'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(36,8): error C2039: '_data': is not a member of 'ProfileNode'
+  C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(5,7):
+  see declaration of 'ProfileNode'
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(36,16): error C2065: 'new_data': undeclared identifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(70,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(70,37): error C2146: syntax error: missing ')' before identifier 'new_Profile'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(70,37): error C3646: 'new_Profile': unknown override specifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(70,48): error C2059: syntax error: ')'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.cpp(74,17): error C2065: 'new_Profile': undeclared identifier
+  SocialNetwork.cpp
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,26): error C2146: syntax error: missing ')' before identifier 'profile'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,26): error C3646: 'profile': unknown override specifier
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(9,33): error C2059: syntax error: ')'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(13,10): error C3646: 'get_data': unknown override specifier
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(13,18): error C2059: syntax error: '('
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(13,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,30): error C2146: syntax error: missing ')' before identifier 'new_device'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,30): error C3646: 'new_device': unknown override specifier
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(17,40): error C2059: syntax error: ')'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(20,10): error C3646: '_data': unknown override specifier
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(20,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,25): error C2146: syntax error: missing ')' before identifier 'user_to_add'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,25): error C3646: 'user_to_add': unknown override specifier
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\ProfileList.h(42,36): error C2059: syntax error: ')'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.h(19,18): error C2061: syntax error: identifier 'Profile'
+  (compiling source file 'SocialNetwork.cpp')
+  
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(19,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(20,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(21,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(26,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(31,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(35,17): error C2065: 'Profile': undeclared identifier
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(35,25): error C2146: syntax error: missing ')' before identifier 'profile_to_add'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(36,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Cyber_User\Desktop\MagshimimY2\Dominik_DudkinHw1\DominikDudkinClasses\SocialNetwork.cpp(36,1): error C2447: '{': missing function header (old-style formal list?)
+  User.cpp
+  Generating Code...
